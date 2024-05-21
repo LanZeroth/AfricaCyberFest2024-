@@ -4,7 +4,7 @@
 
 Hi 👋,
 
-I had the pleasure of participating in the AfricaCyberFest 2024 CTF with my team, BOTscope, under the alias Lan0srespii_Lagacies. In this repository, I'll be sharing detailed write-ups for some of the challenges I managed to solve during the competition.
+I had the pleasure of participating in the AfricaCyberFest 2024 CTF with my team, BOTscope, under the alias Lan0srespii_Legacies. In this repository, I'll be sharing detailed write-ups for some of the challenges I managed to solve during the competition.
 
 <h3>Challenges Solved</h3>
 
@@ -46,7 +46,7 @@ Flag: ACTF{dont_skip_cutscenes}
 ### Say Hello
 ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/be74af8b-ed43-46af-a222-6c28f729d021)
 
-Head over to their accounts, follow them go back to the ctf platform then submit `Yes` :)
+Since I had been following most of the accounts already, I followed the new ones and then submitted. `Yes` :)
 
 ```
 Flag: Yes
