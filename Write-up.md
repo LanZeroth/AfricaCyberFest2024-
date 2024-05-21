@@ -21,7 +21,7 @@ I had the pleasure of participating in the AfricaCyberFest 2024 CTF with my team
 
 ## Reverse Engineering
 - Sore
-- Finding Nunlock
+- Finding Nulock
 
 ## Digital Forensics
 -  Whispers in the Wires
@@ -34,7 +34,7 @@ Not pretty much so let's get to it 😉
 
 
 ### Do you read
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/7959b41a-de7b-4146-9201-ee1f00422abe)
+![image](images/do_you_read.png)
 
 It's clearly referring to the main page of the site, so I went over there, viewed page source and got the flag
 ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/b6c201e0-13fd-4808-a3b9-badccb7f643e)
