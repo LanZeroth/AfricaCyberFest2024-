@@ -6,7 +6,7 @@ Hi 👋,
 
 I had the pleasure of participating in the AfricaCyberFest 2024 CTF with my team, BOTscope, under the alias Lan0srespii_Legacies. In this repository, I'll be sharing detailed write-ups for some of the challenges I managed to solve during the competition.
 
-<h3>Challenges Solved</h3>
+<h3>Challenges</h3>
 
 ## General
 - Do you read
@@ -65,15 +65,13 @@ Flag: actf{i_did_not_skip_this_cutscene}
 ### Troll
 ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/813b37d2-c052-41b1-9409-a985da23ed3d)
 
-This challenge was pretty much created due to a rant about why there were no very trivial challs 😄
 
--- We asked for it...
 
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/556e5bef-06ac-475e-9f40-82560a35c2d3)
+
 
 -- He delivered
 
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/d9d5495d-0005-430c-ba29-660c3f0b4e75)
+
 
 Now let's get to it
 
