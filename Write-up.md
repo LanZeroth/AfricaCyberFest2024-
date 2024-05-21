@@ -1,13 +1,11 @@
-<h3> Cyberfest CTF 2024 </h3>
-
+<h2> AfricaCyberfest CTF 2024 </h2>
 ![ctf-landing-page](ctf-landing-page.JPG)
 
-Hello 👋,
+Hi 👋,
 
-I had the pleasure of participating in the AfricaCyberFest 2024 CTF with my team, !ethical, under the alias 0x1337. In this repository, I'll be sharing detailed write-ups for some of the challenges I managed to solve during the competition.
+I had the pleasure of participating in the AfricaCyberFest 2024 CTF with my team, BOTscope, under the alias Lan0srespii_Lagacies. In this repository, I'll be sharing detailed write-ups for some of the challenges I managed to solve during the competition.
 
-Challenges Solved
-General
+<h3>Challenges Solved</h3>
 
 ## General
 - Do you read
