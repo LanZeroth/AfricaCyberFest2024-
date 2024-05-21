@@ -1,5 +1,5 @@
 <h2> AfricaCyberfest CTF 2024 </h2>
-![ctf-landing-page](images/ctf_landing_page)
+![ctf-landing-page](images/ctf_landing_page.png)
 
 Hi 👋,
 
