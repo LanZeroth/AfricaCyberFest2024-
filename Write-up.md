@@ -76,7 +76,7 @@ Flag: actf{i_did_not_skip_this_cutscene}
 Now let's get to it
 
 Going to the attached url doesn't show anything
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/06a284fe-3cf2-4578-b303-18ded56c4fdc)
+![image](image/trolls.png)
 
 Viewing page source reveals nothing also
 ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/656d4fa2-8066-4589-8928-8cf54c83afaf)
