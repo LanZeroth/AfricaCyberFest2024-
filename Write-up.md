@@ -1,6 +1,6 @@
 <h3> Cyberfest CTF 2024 </h3>
 
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/a995235f-ae7c-4340-b0d7-330901a9afc2)
+![image](ctf-landing-page.jpg)
 
 Hello 👋, I participated in this CTF with team `BOTSCOPE` as `0x1337`
 
