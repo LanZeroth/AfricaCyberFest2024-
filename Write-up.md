@@ -30,14 +30,14 @@ I had the pleasure of participating in the AfricaCyberFest 2024 CTF with my team
 -  Hip Hip HIp!
 
 
-Not pretty much so let's get to it 😉
+Let try to solve this 😎
 
 
 ### Do you read
-![image](images/do_you_read.png)
+![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/7959b41a-de7b-4146-9201-ee1f00422abe)
 
-It's clearly referring to the main page of the site, so I went over there, viewed page source and got the flag
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/b6c201e0-13fd-4808-a3b9-badccb7f643e)
+It's clearly referring to the main page of the site, so I navigated there, inspected the page source, and found the flag.
+![image](images/do_you_read.png)
 
 ```
 Flag: ACTF{dont_skip_cutscenes}
