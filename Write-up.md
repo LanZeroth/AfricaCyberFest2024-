@@ -2,12 +2,12 @@
 
 ![ctf-landing-page](ctf-landing-page.JPG)
 
-Hello 👋, I participated in this CTF with team `BOTSCOPE` as `0x1337`
+Hello 👋,
 
-I'll be giving writeups to some of the challenges which I solved
+I had the pleasure of participating in the AfricaCyberFest 2024 CTF with my team, !ethical, under the alias 0x1337. In this repository, I'll be sharing detailed write-ups for some of the challenges I managed to solve during the competition.
 
-<h3> Challenge Solved </h3>
-
+Challenges Solved
+General
 
 ## General
 - Do you read
