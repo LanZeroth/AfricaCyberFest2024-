@@ -1,6 +1,6 @@
 <h3> Cyberfest CTF 2024 </h3>
 
-![ctf-landing-page](ctf-landing-page.jpg)
+![ctf-landing-page](ctf-landing-page.JPG)
 
 Hello 👋, I participated in this CTF with team `BOTSCOPE` as `0x1337`
 
