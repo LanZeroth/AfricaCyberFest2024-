@@ -246,6 +246,14 @@ I did lots of trial and error here, but when I used KOI-8 to Phonetic (Modified 
 ```
 Flag: ACTF{17'5_a11_1n_Th3_m3T4d473}
 ```
+## Plane Sight 2
+![image](images/masshke45.png)
+
+The Luffy quotes are just there to confuse you. The flag is the same as the first one.
+
+```
+Flag: ACTF{17'5_a11_1n_Th3_m3T4d473}
+```
 That's all for now! I'm still working on finding more CTF challenges 🕵️‍♂️, but bye for now! 👋
 
 
