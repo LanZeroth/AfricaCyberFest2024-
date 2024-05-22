@@ -138,7 +138,8 @@ At the end of the CTF prequalification, my team secured the 4th position. In the
 
 After the CTF finals concluded, I managed to solve some of the trickier challenges.
 
-# fun???
+## Misc
+### fun???
 ![image](images/fun.png)
 
 The discovery revolves around Unicode steganography, particularly with zero-width characters
@@ -150,9 +151,9 @@ We got our flag😎
 ```
 Flag: ACTF{Alw4ys_in_pl4in_sight!!}
 ```
-# Cryptography
+## Cryptography
 
-<h2>S1mple</h2> 
+### S1mple
 ![image](images/simpler.png)
 
 
@@ -248,7 +249,7 @@ That's all for now! I'm still working on finding more CTF challenges 🕵️‍�
 
 
 
-References
+#### References
 I'd like to give a huge shoutout to the following resources that were invaluable to this Write-ups
 
 - **Blackanon22's Blog**: The detailed posts on various CTF competitions, including the Africa Cyberfest, provided insightful strategies and solutions. You can check it out [here](https://blackanon22.github.io/posts/CTF%20Competitions/africa_cyberfest.html).
