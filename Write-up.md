@@ -96,10 +96,11 @@ Flag: aCtF{robotTxt_and_strings_as_requested}
 ### Finding nulock 
 ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/6d7d2808-87fc-427a-adf1-14d8a71ddec2)
 
-Basically, after identifying the file as a Java APK using the file command on my Kali Linux environment and confirming it was indeed an APK, I attempted to download it on a Windows environment. However, I received a virus warning during the download attempt.
-![image](images/newchallapk.png)
+Basically, after identifying the file as a Java APK using the file command on my Kali Linux environment and confirming it was Zipped , 
+![image](images/kali3.png)
 
-So, I adjusted my settings to allow the file to be downloaded. Then, I used an online [decompiler](https://www.decompiler.com/) to analyze the APK file.
+I moved it to my Windows environment
+ I adjusted my settings to allow the file to be downloaded. Then, I used an online [decompiler](https://www.decompiler.com/) to analyze the APK Zip file.
 
 ![image](images/decomp.png)
 
@@ -114,7 +115,7 @@ I went into the resource folder and downloaded the classes.dex file because I su
 
 After downloading the classes.dex file, I used Visual Studio Code to view its contents. Given the suspicion surrounding the APK file and the presence of a Metasploit stager, I searched within the classes.dex file for the format "ACTF{". Boom! I found the flag.
 
-![image](images/decomp5vsc.png)
+![image](images/vscode.png)
 
 ```
 Flag: ACTF{Dynamic_Analysis_h0s7_R3v3al5}
@@ -130,9 +131,10 @@ Flag: ACTF{Happy_Birthday!_Lytes}
 ```
 
 At the end of the CTF prequalification, my team secured the 4th position. In the final, we maintained our 4th place. However, I felt disappointed as I managed to solve the trickier challenges only after the CTF concluded. Nonetheless, considering this was my first official CTF, I still see it as a significant achievement.
+
 ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/d27fbef6-1018-4298-a4b0-9a8fd5da877a)
 
-Challenges Solved After CTF Finals:
+## Challenges Solved After CTF Finals:
 
 After the CTF finals concluded, I managed to solve some of the trickier challenges.
 
@@ -141,7 +143,7 @@ After the CTF finals concluded, I managed to solve some of the trickier challeng
 The discovery revolves around Unicode steganography, particularly with zero-width characters
 
 When you inspect element you’ll see this
-![image](images/zerowidth.png)
+![image](images/zero.png)
 
 
 We got our flag😎
