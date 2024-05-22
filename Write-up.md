@@ -248,13 +248,12 @@ That's all for now! I'm still working on finding more CTF challenges 🕵️‍�
 
 
 
+References
+I'd like to give a huge shoutout to the following resources that were invaluable to this Write-ups
 
-Shoutout
-I'd like to give a huge shoutout to the following resources that were invaluable during my CTF journey:
+- **Blackanon22's Blog**: The detailed posts on various CTF competitions, including the Africa Cyberfest, provided insightful strategies and solutions. You can check it out [here](https://blackanon22.github.io/posts/CTF%20Competitions/africa_cyberfest.html).
 
-Blackanon22's Blog: The detailed posts on various CTF competitions, including the Africa Cyberfest, provided insightful strategies and solutions. You can check it out here.
-
-h4ckyou's GitHub Repository: This repository contains a comprehensive write-up on Cyberfest24, offering a step-by-step guide on how the challenges were tackled. Visit the repository here for more detailed information.
+- **h4ckyou's GitHub Repository**: This repository contains a comprehensive write-up on Cyberfest24, offering a step-by-step guide on how the challenges were tackled. Visit the repository [here](https://github.com/h4ckyou/h4ckyou.github.io/blob/main/posts/ctf/cyberfest24/writeup.md) for more detailed information.
 
 These resources were instrumental in enhancing my understanding and approach to the challenges faced during the competition. Thank you to the creators for sharing their knowledge and expertise with the community!
 
