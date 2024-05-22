@@ -144,15 +144,97 @@ When you inspect element you’ll see this
 ![image](images/zerowidth.png)
 
 
+We got our flag😎
+
+FLAG:-ACTF{Alw4ys_in_pl4in_sight!!}
+
+# Cryptography
+
+## S1mple
+![image](images/simpler.png)
 
 
 
+I downloaded the simple.txt file and upon opening it, I noticed whitespace encoding beneath the binary content. Subsequently, I employed the stegsnow tool in my Kali Linux environment to proceed with analysis.
+![image](images/simple.png)
+
+
+I cross-checked it on my Kali Linux environment, then used the file command on the simple.txt file to verify if it was indeed a text file. Afterward, I ran the strings command on the simple.txt file and obtained the same output.
+![image](images/simple.png)
+
+I ran the strings command on the simple.txt file and obtained the same output.
+![image](images/simple.png)
+
+I then copied the cipher to the website mashke.org, which provides an automatic Cyrillic encoder. I tried several encodings, but when I used the Windows-1251 encoding, I successfully obtained the flag, which was translated from Russian to English.
+![image](images/mask.png)
+
+
+Boom! I got the flag.
+![image](images/mashke5.png)
+
+## Steganography
+## Plane Sight
+
+The Plane Sight challenge was initially one challenge. However, when it became apparent that we couldn't solve it, they made it into two challenges.
+
+The first thing I did was to use the `file` command to check the image and confirm that it was indeed a JPEG image. Then, I used the `strings` command to see any content, but the results were all clunky. But then I saw something related to `exiftool`.
+
+Then what I did was to use the `exiftool` tool to check the image.
+![image](images/exif.png)
+
+![image](images/exif2.png)
+
+
+I got some encoded words/string in the title section.
+
+![image](images/exif3.png)
 
 
 
+We also received some hints in the notifications that the encoded words are in Cyrillic, similar to the cryptography challenge.
+
+
+![image](images/cyrillic.png)
 
 
 
+I also utilized https://www.aperisolve.com/ to inspect the image.
+
+![image](images/aperi.png)
+
+I found something similar in the title section using ExifTool. I then posted this on ChatGPT and received an HTML encoded string.
+
+
+![image](images/aperi2.png)
+
+I then posted this on ChatGPT and received an HTML encoded string.
+![image](images/chat.png)
+
+
+Then, I followed the same process as I did in the cryptography challenge. I posted the encoded string on the automatic Cyrillic decoder at mashke.org.
+![image](images/mashke.png)
+
+Then I got some Russian text, 
+![image](images/mashke2.png)
+
+which I used Google Translate to detect and translate from Russian to English.
+![image](images/mashke3.png)
+
+I tried using this as the flag, but it didn't work. I left it for a while, thinking a bitwise operation like "17>>5" might be involved. Later, I got a hint/idea to use other Cyrillic encoders. Then I used https://convertcyrillic.com/#/.
+
+![image](images/mashke4.png)
+
+
+I did lots of trial and error here, but when I used KOI-8 to Phonetic (Modified Library of Congress Transliteration) [Russki\i ^iazyk], I got another string. I tried this string, and I was surprised to see it was the flag.
+
+![image](images/mashke4.png)
+
+
+That's all for now! I'm still working on finding more CTF challenges 🕵️‍♂️, but bye for now! 👋
+
+
+
+Then Boom
 
 
 
