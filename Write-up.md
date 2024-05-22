@@ -164,7 +164,10 @@ I downloaded the simple.txt file and upon opening it, I noticed whitespace encod
 I cross-checked it on my Kali Linux environment, then used the file command on the simple.txt file to verify if it was indeed a text file. Afterward, I ran the strings command on the simple.txt file and obtained the same output.
 ![image](images/kali.png)
 
-Then I employed the stegsnow tool with the -C simple.txt command to scrutinize the image. If stegsnow isn't installed, you can install it using the appropriate command for your system."
+Then I employed the stegsnow tool with the -C simple.txt command to scrutinize the image.
+![image](images/kali2.png)
+
+If stegsnow isn't installed, you can install it using the appropriate command for your system."
 To install stegsnow on Kali Linux, you can use the following command in your terminal:
 
 
