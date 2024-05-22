@@ -152,7 +152,7 @@ FLAG:-ACTF{Alw4ys_in_pl4in_sight!!}
 
 # Cryptography
 
-## S1mple
+<h2>S1mple</h2> 
 ![image](images/simpler.png)
 
 
@@ -162,10 +162,14 @@ I downloaded the simple.txt file and upon opening it, I noticed whitespace encod
 
 
 I cross-checked it on my Kali Linux environment, then used the file command on the simple.txt file to verify if it was indeed a text file. Afterward, I ran the strings command on the simple.txt file and obtained the same output.
-![image](images/simple.png)
+![image](images/kali.png)
 
-I ran the strings command on the simple.txt file and obtained the same output.
-![image](images/simple.png)
+Then I employed the stegsnow tool with the -C simple.txt command to scrutinize the image. If stegsnow isn't installed, you can install it using the appropriate command for your system."
+To install stegsnow on Kali Linux, you can use the following command in your terminal:
+
+
+sudo apt-get install stegsnow
+
 
 I then copied the cipher to the website mashke.org, which provides an automatic Cyrillic encoder. I tried several encodings, but when I used the Windows-1251 encoding, I successfully obtained the flag, which was translated from Russian to English.
 ![image](images/mask.png)
