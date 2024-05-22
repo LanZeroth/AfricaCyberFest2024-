@@ -230,12 +230,15 @@ Then, I followed the same process as I did in the cryptography challenge. I post
 Then I got some Russian text, 
 ![image](images/mashke2.png)
 
-which I used Google Translate to detect and translate from Russian to English.
+which the page automatically Translate to detect and translate from Bulgararian to English.
 ![image](images/mashke3.png)
+
+Then I still had to Google detect the Language Which confimed it was Serbian But I convert it to English anyways
+![image](images/masske.png)
 
 I tried using this as the flag, but it didn't work. I left it for a while, thinking a bitwise operation like "17>>5" might be involved. Later, I got a hint/idea to use other Cyrillic encoders. Then I used https://convertcyrillic.com/#/.
 
-![image](images/mashke4.png)
+![image](images/masshke4.png)
 
 
 I did lots of trial and error here, but when I used KOI-8 to Phonetic (Modified Library of Congress Transliteration) [Russki\i ^iazyk], I got another string. I tried this string, and I was surprised to see it was the flag.
@@ -243,7 +246,7 @@ I did lots of trial and error here, but when I used KOI-8 to Phonetic (Modified 
 ![image](images/mashke4.png)
 
 ```
-Flag: ACTF{17'5_а11_1н_Тh3_м3Т4д473}
+Flag: ACTF{17'5_a11_1n_Th3_m3T4d473}
 ```
 That's all for now! I'm still working on finding more CTF challenges 🕵️‍♂️, but bye for now! 👋
 
