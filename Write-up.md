@@ -180,13 +180,13 @@ I then copied the cipher to the website mashke.org, which provides an automatic 
 
 
 Boom! I got the flag.
-![image](images/mashke5.png)
+![image](images/mashke6.png)
 ```
 Flag: ACTF{1ts_ju57_a5_5impl3_4s_1t_100k5!!!}
 ```
 
 ## Steganography
-## Plane Sight
+### Plane Sight
 
 The Plane Sight challenge was initially one challenge. However, when it became apparent that we couldn't solve it, they made it into two challenges.
 
