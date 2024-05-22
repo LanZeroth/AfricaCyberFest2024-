@@ -243,7 +243,7 @@ I did lots of trial and error here, but when I used KOI-8 to Phonetic (Modified 
 ![image](images/mashke4.png)
 
 ```
-Flag: ACTF{17'5_a11_1n_Th3_m3T4d473}
+Flag: ACTF{17'5_а11_1н_Тh3_м3Т4д473}
 ```
 That's all for now! I'm still working on finding more CTF challenges 🕵️‍♂️, but bye for now! 👋
 
