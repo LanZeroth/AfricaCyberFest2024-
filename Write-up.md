@@ -6,7 +6,7 @@ Hi 👋,
 
 I had the pleasure of participating in the AfricaCyberFest 2024 CTF with my team, BOTscope, under the alias Lan0srespii_Legacies. In this repository, I'll be sharing detailed write-ups for some of the challenges I managed to solve during the competition.
 
-<h3>Challenges</h3>
+<h3>Challenges in the Qualifiers</h3>
 
 ## General
 - Do you read
