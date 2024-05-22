@@ -96,7 +96,7 @@ Flag: aCtF{robotTxt_and_strings_as_requested}
 ### Finding nulock 
 ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/6d7d2808-87fc-427a-adf1-14d8a71ddec2)
 
-Basically, after identifying the file as a Java APK using the file command on my Kali Linux environment and confirming it was Zipped , 
+Basically, after identifying the file as an APK using the file command on my Kali Linux environment and confirming it was Zipped APK , 
 ![image](images/kali3.png)
 
 I moved it to my Windows environment
@@ -147,9 +147,9 @@ When you inspect element you’ll see this
 
 
 We got our flag😎
-
-FLAG:-ACTF{Alw4ys_in_pl4in_sight!!}
-
+```
+Flag: ACTF{Alw4ys_in_pl4in_sight!!}
+```
 # Cryptography
 
 <h2>S1mple</h2> 
@@ -180,6 +180,9 @@ I then copied the cipher to the website mashke.org, which provides an automatic 
 
 Boom! I got the flag.
 ![image](images/mashke5.png)
+```
+Flag: ASTF{1ts_ju57_a5_5impl3_4s_1t_100k5!!!}
+```
 
 ## Steganography
 ## Plane Sight
@@ -238,16 +241,22 @@ I did lots of trial and error here, but when I used KOI-8 to Phonetic (Modified 
 
 ![image](images/mashke4.png)
 
-
+```
+Flag: ASTF{flag = 17'5_а11_1н_Тh3_м3Т4д473}
+```
 That's all for now! I'm still working on finding more CTF challenges 🕵️‍♂️, but bye for now! 👋
 
 
 
-Then Boom
 
+Shoutout
+I'd like to give a huge shoutout to the following resources that were invaluable during my CTF journey:
 
+Blackanon22's Blog: The detailed posts on various CTF competitions, including the Africa Cyberfest, provided insightful strategies and solutions. You can check it out here.
 
+h4ckyou's GitHub Repository: This repository contains a comprehensive write-up on Cyberfest24, offering a step-by-step guide on how the challenges were tackled. Visit the repository here for more detailed information.
 
+These resources were instrumental in enhancing my understanding and approach to the challenges faced during the competition. Thank you to the creators for sharing their knowledge and expertise with the community!
 
 
 
