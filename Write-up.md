@@ -227,13 +227,13 @@ I then posted this on ChatGPT and received an HTML encoded string.
 Then, I followed the same process as I did in the cryptography challenge. I posted the encoded string on the automatic Cyrillic decoder at mashke.org.
 ![image](images/mashke.png)
 
-Then I got some Russian text, 
+Then, when I converted the page, it automatically translated from Bulgarian/Russian to English.
 ![image](images/mashke2.png)
 
-which the page automatically Translate to detect and translate from Bulgararian to English.
+But I still had to be sure, so I used Google to detect it.
 ![image](images/mashke3.png)
 
-Then I still had to Google detect the Language Which confimed it was Serbian But I convert it to English anyways
+I confirmed that it was indeed Serbian. I translated it to English.
 ![image](images/masske.png)
 
 I tried using this as the flag, but it didn't work. I left it for a while, thinking a bitwise operation like "17>>5" might be involved. Later, I got a hint/idea to use other Cyrillic encoders. Then I used https://convertcyrillic.com/#/.
