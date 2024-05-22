@@ -140,8 +140,8 @@ After the CTF finals concluded, I managed to solve some of the trickier challeng
 
 # fun???
 ![image](images/fun.png)
-The discovery revolves around Unicode steganography, particularly with zero-width characters
 
+The discovery revolves around Unicode steganography, particularly with zero-width characters
 When you inspect element you’ll see this
 ![image](images/zero.png)
 
@@ -181,7 +181,7 @@ I then copied the cipher to the website mashke.org, which provides an automatic 
 Boom! I got the flag.
 ![image](images/mashke5.png)
 ```
-Flag: ASTF{1ts_ju57_a5_5impl3_4s_1t_100k5!!!}
+Flag: ACTF{1ts_ju57_a5_5impl3_4s_1t_100k5!!!}
 ```
 
 ## Steganography
@@ -254,6 +254,8 @@ I'd like to give a huge shoutout to the following resources that were invaluable
 - **Blackanon22's Blog**: The detailed posts on various CTF competitions, including the Africa Cyberfest, provided insightful strategies and solutions. You can check it out [here](https://blackanon22.github.io/posts/CTF%20Competitions/africa_cyberfest.html).
 
 - **h4ckyou's GitHub Repository**: This repository contains a comprehensive write-up on Cyberfest24, offering a step-by-step guide on how the challenges were tackled. Visit the repository [here](https://github.com/h4ckyou/h4ckyou.github.io/blob/main/posts/ctf/cyberfest24/writeup.md) for more detailed information.
+
+- **OTI's GitHub Repository**:This repository contains a collection of write-ups on various CTF challenges, providing step-by-step guides on how each challenge was approached and solved. Additionally, it includes an explanation of the "nc shell" challenge, highlighting the use of shell expansion techniques. Visit the repository [here](https://justfavour.github.io/)
 
 These resources were instrumental in enhancing my understanding and approach to the challenges faced during the competition. Thank you to the creators for sharing their knowledge and expertise with the community!
 
