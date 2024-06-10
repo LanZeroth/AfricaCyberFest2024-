@@ -1,3 +1,8 @@
+
+---
+layout:default
+title:Home
+---
 # AfricaCyberfest CTF 2024 
 
 ![ctf-landing-page](images/ctf_landing_page.png)
