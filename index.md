@@ -39,7 +39,7 @@ Let try to solve this 😎
 
 
 ### Do you read
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/7959b41a-de7b-4146-9201-ee1f00422abe)
+<!--![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/7959b41a-de7b-4146-9201-ee1f00422abe) -->
 
 It's clearly referring to the main page of the site, so I navigated there, inspected the page source, and found the flag.
 ![image](images/do_you_read.png)
@@ -49,7 +49,7 @@ Flag: ACTF{dont_skip_cutscenes}
 ```
 
 ### Say Hello
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/be74af8b-ed43-46af-a222-6c28f729d021)
+[//] ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/be74af8b-ed43-46af-a222-6c28f729d021)
 
 Since I had been following most of the accounts already, I followed the new ones and then submitted. `Yes` :)
 
