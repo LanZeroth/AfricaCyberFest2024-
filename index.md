@@ -49,7 +49,7 @@ Flag: ACTF{dont_skip_cutscenes}
 ```
 
 ### Say Hello
- ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/be74af8b-ed43-46af-a222-6c28f729d021) (This is commnet)
+ ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/be74af8b-ed43-46af-a222-6c28f729d021) 
 
 Since I had been following most of the accounts already, I followed the new ones and then submitted. `Yes` :)
 
