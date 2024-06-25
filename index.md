@@ -49,7 +49,7 @@ Flag: ACTF{dont_skip_cutscenes}
 ```
 
 ### Say Hello
- ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/be74af8b-ed43-46af-a222-6c28f729d021) 
+ <!-- ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/be74af8b-ed43-46af-a222-6c28f729d021)  -->
 
 Since I had been following most of the accounts already, I followed the new ones and then submitted. `Yes` :)
 
@@ -58,7 +58,7 @@ Flag: Yes
 ```
 
 ### Do you read 2
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/191d940a-9684-4c31-bdbb-f9d80926837b)
+<!-- ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/191d940a-9684-4c31-bdbb-f9d80926837b) -->
 
 Just submit that 
 
@@ -68,7 +68,7 @@ Flag: actf{i_did_not_skip_this_cutscene}
 
 
 ### Troll
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/813b37d2-c052-41b1-9409-a985da23ed3d)
+<!-- ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/813b37d2-c052-41b1-9409-a985da23ed3d) -->
 
 Navigating to the provided URL didn't display any content.
 ![image](images/trolls.png)
@@ -99,7 +99,7 @@ Flag: aCtF{robotTxt_and_strings_as_requested}
 
 
 ### Finding nulock 
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/6d7d2808-87fc-427a-adf1-14d8a71ddec2)
+<!-- ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/6d7d2808-87fc-427a-adf1-14d8a71ddec2) -->
 
 Basically, after identifying the file as an APK using the file command on my Kali Linux environment and confirming it was Zipped APK , 
 ![image](images/kali3.png)
@@ -127,7 +127,7 @@ Flag: ACTF{Dynamic_Analysis_h0s7_R3v3al5}
 ```
 
 ### Hip Hip HIp!
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/0e5c10bb-5696-4341-85f8-c2ff7aff617c)
+<!-- ![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/0e5c10bb-5696-4341-85f8-c2ff7aff617c) -->
 
 Just submit that :)
 
@@ -136,8 +136,8 @@ Flag: ACTF{Happy_Birthday!_Lytes}
 ```
 
 At the end of the CTF prequalification, my team secured the 4th position. In the final, we maintained our 4th place. However, I felt disappointed as I managed to solve the trickier challenges only after the CTF concluded. Nonetheless, considering this was my first official CTF, I still see it as a significant achievement.
-
-![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/d27fbef6-1018-4298-a4b0-9a8fd5da877a)
+<!-- 
+![image](https://github.com/h4ckyou/h4ckyou.github.io/assets/127159644/d27fbef6-1018-4298-a4b0-9a8fd5da877a) -->
 
 ## Challenges Solved After CTF Finals:
 
